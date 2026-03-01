@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Vineet Kumar Chaturvedi<br>🚀 Full Stack Developer | AI/ML Enthusiast | Competitive Programmer  <br>🎓 B.Tech IT (2022–2026) | ABES Engineering College  <br>📍 Ghaziabad, India  <br>---<br>### 👨‍💻 I’m currently working on<br>- MERN Stack Applications  <br>- REST API Optimization  <br>- CI/CD with Azure  <br>- Scalable Backend Systems  <br>### 🤝 I’m looking to collaborate on<br>- Open Source Projects  <br>- AI/ML Applications  <br>- SaaS & Startup Ideas  <br>### 🌱 I’m currently learning<br>- System Design (LLD + HLD)  <br>- Docker & Kubernetes  <br>- Microservices Architecture  <br>### 💬 Ask me about<br>- Data Structures & Algorithms (700+ problems solved)  <br>- Backend Development (Node.js, Express)  <br>- MongoDB & API Design  <br>- Face Recognition & AI Chatbots  <br>### ⚡ Fun fact<br>Built a Face Recognition Attendance System with 95%+ accuracy and reduced manual effort by 90% 🚀  <br>---<br>## 🛠 Tech Stack<br>**Languages:** Python, JavaScript, C++  <br>**Frontend:** React.js, HTML5, CSS3  <br>**Backend:** Node.js, Express.js  <br>**Database:** MongoDB, MySQL  <br>**AI/ML:** TensorFlow, scikit-learn, OpenCV  <br>**DevOps:** Git, GitHub, Azure CI/CD  <br>---<br>## 🏆 Achievements<br>- Solved 700+ DSA problems  <br>- 1600+ LeetCode rating  <br>- AI Internship (Microsoft + SAP TechSaksham)  <br>---<br>## 🔗 Connect With Me<br>📧 vkc7233@gmail.com  <br>💼 LinkedIn: https://www.linkedin.com/in/vineet-chaturvedi-910a55234/  <br>💻 GitHub: https://github.com/vkc7233  <br>🧠 LeetCode: https://leetcode.com/u/vkc7233/  
+# 👋 Hi, I'm Vineet Kumar Chaturvedi<br>🚀 Full Stack Developer | AI/ML Enthusiast | Competitive Programmer  <br>🎓 B.Tech IT (2022–2026) | ABES Engineering College  <br>📍 Ghaziabad, India  <br>Currently working as a **Software Engineer Intern at Kursaha Technology**, building scalable MERN stack applications, optimizing REST APIs, and implementing CI/CD pipelines on Azure.<br>---<br>### 💡 Summary<br>Passionate developer with strong backend and AI foundations, experienced in building real-world systems including a face recognition attendance platform (95%+ accuracy) and an AI health assistant chatbot. Solved 700+ DSA problems with a 1600+ LeetCode rating.  <br>---<br>### 🛠 Tech Stack<br>**Languages:** Python, JavaScript, C++  <br>**Frontend:** React.js, HTML5, CSS3  <br>**Backend:** Node.js, Express.js  <br>**Database:** MongoDB, MySQL  <br>**AI/ML:** TensorFlow, scikit-learn, OpenCV  <br>**DevOps:** Git, GitHub, Azure CI/CD  <br>---<br>### 🏆 Achievements<br>- 700+ DSA problems solved  <br>- 1600+ LeetCode rating  <br>- AI Internship (Microsoft + SAP TechSaksham)  
 
 
 ## 🌐 Socials:
@@ -12,22 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=vkc7233&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vkc7233&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vkc7233&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
 ---
-[![](https://visitcount.itsvg.in/api?id=vkc7233&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=vkc7233&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**vkc7233/vkc7233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
